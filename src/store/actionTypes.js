@@ -1,0 +1,6 @@
+export const ADD = 'ADD'
+export const GET_USER_LIST = 'GET_USER_LIST'
+export const SET_USER = 'SET_USER'
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS'
+export const LOGOUT_SUCCESS = 'LOGOUT_SUCCESS'
+export const LOGIN_FAIL = 'LOGIN_FAIL'
